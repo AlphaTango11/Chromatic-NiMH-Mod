@@ -1,0 +1,7 @@
+"Reference","Value","Datasheet","Footprint","Qty","Description"
+"C1,C2","10µF","~","Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder","2","Unpolarized capacitor - 1 - 10 uF"
+"D1","LED","~","LED_SMD:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder","1","Light emitting diode - 5mA max draw"
+"R1,R4,R5","3.6K","~","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","3","Resistor"
+"R2","24K","~","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","1","Resistor"
+"R3","10K","~","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","1","Resistor"
+"U1","BQ25172DSGR","","BQ25172DSGR:IC_BQ25172DSGR","1","Charging IC"

@@ -1,0 +1,10 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10µF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,161.975,-94.625,180.0,top
+C2,10µF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,167.075,-94.625,0.0,top
+D1,LED,LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder,164.525,-97.675,180.0,top
+R1,3.6K,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,160.375,-96.15,90.0,top
+R2,24K,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,167.105,-95.625,0.0,top
+R3,10K,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,161.945,-96.625,0.0,top
+R4,3.6K,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,167.105,-96.625,180.0,top
+R5,3.6K,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,161.945,-95.625,0.0,top
+U1,BQ25172DSGR,IC_BQ25172DSGR,164.525,-95.675,0.0,top

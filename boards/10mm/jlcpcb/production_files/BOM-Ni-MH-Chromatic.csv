@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC,Quantity
+10K,R3,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,C191123,1
+24K,R2,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,C409902,1
+3.6K,"R1,R4,R5",R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,C413090,3
+LED,D1,LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder,C5160714,1
+BQ25172DSGR,U1,IC_BQ25172DSGR,C5189434,1
+10µF,"C1,C2",C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,C77000,2
